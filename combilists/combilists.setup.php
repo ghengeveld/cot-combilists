@@ -4,7 +4,7 @@
 Code=combilists
 Name=CombiLists
 Description=Combine multiple categories into a single list.
-Version=1.0
+Version=1.1
 Date=2011-jan-16
 Author=Koradhil
 Copyright=Webmojo

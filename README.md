@@ -11,3 +11,10 @@ Configuration
 
 In order for the plugin to work, at least one category code should be 
 configured. Multiple categories can be configured by using comma seperation.
+
+Changelog
+---------
+
+Version 1.1:
+
+* Add support for listfilters plugin
